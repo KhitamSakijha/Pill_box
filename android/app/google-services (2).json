@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396121178597",
+    "project_id": "pill-box-d5fe4",
+    "storage_bucket": "pill-box-d5fe4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396121178597:android:76b5446880854c200c6f0c",
+        "android_client_info": {
+          "package_name": "com.example.pill_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQT2PY81z3ULrShVPMNa4KKDoHRi1p7P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
