@@ -59,6 +59,3 @@ This project is a Smart Pill Box application that allows users to manage their m
 * Improved skills in mobile app architecture and state management.
 * Gained experience in building a full-stack mobile solution with real-life impact.
 ---
-
-## ⭐ Note
-This project is part of a learning journey in web development and is intended for educational purposes.
