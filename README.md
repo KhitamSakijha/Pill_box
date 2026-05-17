@@ -38,15 +38,15 @@ This project is a Smart Pill Box application that allows users to manage their m
 
 2.  **Navigate to the project folder:**
     ```bash
-   cd Pill_Box
+    cd Pill_Box
     ```
 3.  **Install dependencies:**
     ```bash
-  flutter pub get
+     flutter pub get
     ```
 4.  **Run the application:**
     ```bash
- flutter run
+    flutter run
     ```
 
 
